@@ -1,4 +1,4 @@
-<img align="right" width="300" height="180" src="[https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png](https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png)">
+<img align="right" width="300" height="180" src="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png">
 
 # 🍋芒果TV
 欢迎来到Meroser的直播源仓库-芒果TV🎉
