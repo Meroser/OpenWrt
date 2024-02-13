@@ -6,5 +6,5 @@
 🎈**标清、流畅**的直播观看体验🎈
 😋直播源来自|**芒果官方**
 
-**订阅地址：** `https://raw.fgit.cf/Meroser/mgtv/main/mgtv.m3u`
+**订阅地址：** `https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/mgtv.m3u`
 
